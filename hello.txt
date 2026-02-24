@@ -1,0 +1,6 @@
+Hi this is a txt file from radha.
+hello world
+x=7
+y=8
+z=x+y
+print(z)
